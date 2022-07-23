@@ -204,7 +204,7 @@ def train(train_loader, model, criterion, optimizer, epoch,  args):
         p1, z2, outputs = model(images[0], images[1], images[2])
 
 
-        # avoid clapse and gradient explosion
+        # avoid collapsing and gradient explosion
         p1 = torch.clamp(p1, 1e-4, 1.0 - 1e-4)
         z2 = torch.clamp(z2, 1e-4, 1.0 - 1e-4)
 
