@@ -25,7 +25,7 @@ Here we show the accuracy of our method + **CE** on CIFAR-10 in 3 trails:
 
 Here we show the accuracy of our method + **CE** on CIFAR-100 in 3 trails:
 
-|   | 0%  | SYM 20% | SYM 40% | SYM 60% | SYM 80%| ASYM 40%
+|   | 0%  | SYM 20% | SYM 40% | SYM 60% | SYM 80%| ASYM 40% 
 |-----------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | Seed 2021 (Best/Last)    |  75.75/75.54   |  71.80/71.52   |  69.21/69.06   |  62.95/62.70   |  55.07/54.94   | 55.76/54.81 | 
 | Seed 2022 (Best/Last)  |  76.03/75.93   |  71.75/71.50  |    68.09/67.97   |  62.80/62.33   | 56.04/55.93 | 54.57/54.10 |
@@ -35,8 +35,8 @@ Here we show the accuracy of our method + **CE** on CIFAR-100 in 3 trails:
 
 Here we show the accuracy of our method + **GCE** on CIFAR-10 in 3 trails:
 
-|    | SYM 20% | SYM 40% | SYM 60% | SYM 80% | SYM 90% | 
-|-----------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|    | SYM 20% | SYM 40% | SYM 60% | SYM 80% | SYM 90% 
+|-----------|:-------:|:-------:|:-------:|:-------:|:-------:|
 | Seed 2021 (Best/Last)    |  94.40/94.36   |  93.85/93.76   |  93.09/92.96   |  91.81/91.63   |   89.29/88.92   |  
 | Seed 2022 (Best/Last)  |  94.51/94.38   |  93.49/93.44   |  93.15/92.98   |  91.20/91.03   |  89.79/89.65   |  
 | Seed 2023 (Best/Last)  |  94.34/94.25   |  93.70/93.36   |  93.20/93.14   |  92.00/91.81   |  90.44/90.34   | 
@@ -46,7 +46,7 @@ Here we show the accuracy of our method + **GCE** on CIFAR-10 in 3 trails:
 Here we show the accuracy of our method + **GCE** on CIFAR-100 in 3 trails:
 
 |    | SYM 20% | SYM 40% | SYM 60% | SYM 80%
-|-----------|:-------:|:-------:|:-------:|:-------:|:-------:|
+|-----------|:-------:|:-------:|:-------:|:-------:|
 | Seed 2021 (Best/Last)    |  74.26/73.90   |  72.65/72.37   |  70.66/70.29   |   64.59/64.38   | 
 | Seed 2022 (Best/Last)  |  74.67/74.55   |  73.12/72.90  |    70.47/70.13   |   64.05/63.81   | 
 | Seed 2023 (Best/Last)  |  74.66/74.41   |  72.85/72.71     |  70.97/70.70   |  63.47/63.29   | 
