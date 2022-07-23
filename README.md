@@ -8,7 +8,7 @@ _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2022)_ <br>
 [[Paper](https://arxiv.org/pdf/2203.01785.pdf)]
 
 ## Running Experiments
-Please refer to [[run.sh](run.sh)] for running different experiments. 
+Please refer to [[run.sh](run.sh)] for running different experiments. <br> <br>
 This repository implements our method with [BYOL](https://arxiv.org/pdf/2006.07733.pdf) framework for better performance as indicated in our paper (Tab.5).
 
 
